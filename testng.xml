@@ -10,7 +10,7 @@
     <listener class-name="com.example.showcodeone.tools.TestReport_original"/>
     <!--    <listener class-name="com.fxjk.test.common.testng.ExtentTestNGIReporterListener"/> --> 
   </listeners>  
-  <test name="Fosun Heallth InterFace Test"> 
+  <test name="InterFace Test">
     <classes> 
       <!--            <class name="com.doctor.workspace.testcase.fosunhealthpatient.signrelation"/>-->  
       <!--      <class name="com.doctor.workspace.testcase.workstation.PatientHealthArchivesControllerTest.GetArchivesByPatientIdTest"/>-->  

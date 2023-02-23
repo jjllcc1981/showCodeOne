@@ -32,7 +32,7 @@ public class TestReport_original implements IReporter {
 
     public TestReport_original() {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd-HH:mm:ss");
-        name = "医生工作站";
+        name = "演示Demo1";
 //        name = "就诊人+医院科室自动化"+formatter.format(System.currentTimeMillis());
     }
 
